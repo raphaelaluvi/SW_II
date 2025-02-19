@@ -2,6 +2,9 @@
     echo "Hoje é que dia da semana?";
     $dia = 2;
 
+    echo "<br>";
+    echo "<br>";
+
     switch ($dia) {
         case 1:
             echo "Opção a escolhida!";
