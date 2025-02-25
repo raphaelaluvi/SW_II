@@ -1,0 +1,3 @@
+<?php
+    //$total += $vetor[$i];
+?>
