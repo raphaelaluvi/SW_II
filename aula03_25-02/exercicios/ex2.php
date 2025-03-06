@@ -1,13 +1,13 @@
 <?php
-    function teste($x, $y){
+    function subtrair($x, $y){
         echo "Valor 1 => $x <br>";
         echo "Valor 2 => $y <br>";
-        $soma = $x - $y;
-        echo $soma;
+        $result = $x - $y;
+        echo $result;
     }
 
     $a = 10;
     $b = 20;
 
-    teste($a, $b);
+    subtrair($a, $b);
 ?>
