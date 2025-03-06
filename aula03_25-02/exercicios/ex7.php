@@ -1,3 +1,4 @@
+<!-- igual ao 5 -->
 <?php
     function soma($n) {
         $soma = 0;

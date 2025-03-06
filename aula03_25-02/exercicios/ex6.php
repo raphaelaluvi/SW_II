@@ -1,3 +1,4 @@
+<!-- mesma coisa que o 4 -->
 <?php
     function conta($x){
         $resultados = [];
