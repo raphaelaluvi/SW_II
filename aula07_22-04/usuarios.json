@@ -18,5 +18,10 @@
         "id": 4,
         "nome": "Nathi",
         "email": "nathi@email"
+    },
+    {
+        "id": 5,
+        "nome": "Paula Pimenta",
+        "email": "paula@email"
     }
 ]
