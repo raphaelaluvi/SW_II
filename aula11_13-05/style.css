@@ -1,0 +1,67 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #a1b7ff;
+    padding: 20px;
+    color: #2c3e50;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #2c3e50;
+}
+
+/* forms ficar no meio */
+.form-cepRecebido {
+    max-width: 400px;
+    margin: 0 auto 30px auto;
+    display: flex;
+    gap: 10px;
+}
+
+.form-cepRecebido input[type="text"] {
+    flex: 1;
+    padding: 10px;
+    font-size: 16px;
+    border: 2px solid #ddd;
+    border-radius: 4px;
+
+}
+
+.form-cepRecebido input[type="text"]:focus {
+    border-color: #3498db;
+    outline: none;
+}
+
+.form-cepRecebido button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #3498db;
+    border: none;
+    border-radius: 4px;
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.form-cepRecebido button:hover {
+    background-color: #2980b9;
+}
+
+.container {
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+.card {
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px #2c3e50;
+    margin-bottom: 20px;
+}
+
+.card p {
+    margin-bottom: 10px;
+    font-size: 16px;
+}
