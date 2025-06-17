@@ -1,0 +1,452 @@
+[
+    {
+        "id": 1,
+        "autor_id": 1,
+        "isbn": 9786556404721,
+        "titulo": "Dom Casmurro",
+        "ano_publicacao": 1899,
+        "genero": "Romance",
+        "editora": "Nova Fronteira"
+    },
+    {
+        "id": 2,
+        "autor_id": 1,
+        "isbn": 9788525406873,
+        "titulo": "Memórias Póstumas de Brás Cubas",
+        "ano_publicacao": 1881,
+        "genero": "Romance",
+        "editora": "L&PM Pocket"
+    },
+    {
+        "id": 3,
+        "autor_id": 2,
+        "isbn": 9788535914849,
+        "titulo": "Orgulho e Preconceito",
+        "ano_publicacao": 1813,
+        "genero": "Romance",
+        "editora": "Penguin Companhia"
+    },
+    {
+        "id": 4,
+        "autor_id": 2,
+        "isbn": 9788577991218,
+        "titulo": "Razão e Sensibilidade",
+        "ano_publicacao": 1811,
+        "genero": "Romance",
+        "editora": "Martin Claret"
+    },
+    {
+        "id": 5,
+        "autor_id": 3,
+        "isbn": 9788535914847,
+        "titulo": "1984",
+        "ano_publicacao": 1949,
+        "genero": "Distopia",
+        "editora": "Companhia das Letras"
+    },
+    {
+        "id": 6,
+        "autor_id": 3,
+        "isbn": 9788535913949,
+        "titulo": "A Revolução dos Bichos",
+        "ano_publicacao": 1945,
+        "genero": "Sátira",
+        "editora": "Companhia das Letras"
+    },
+    {
+        "id": 7,
+        "autor_id": 4,
+        "isbn": 9788573267331,
+        "titulo": "O Morro dos Ventos Uivantes",
+        "ano_publicacao": 1847,
+        "genero": "Romance Gótico",
+        "editora": "Martin Claret"
+    },
+    {
+        "id": 8,
+        "autor_id": 5,
+        "isbn": 9788508159823,
+        "titulo": "Crime e Castigo",
+        "ano_publicacao": 1866,
+        "genero": "Romance psicológico",
+        "editora": "Ediouro"
+    },
+    {
+        "id": 9,
+        "autor_id": 5,
+        "isbn": 9788520934325,
+        "titulo": "Os Irmãos Karamázov",
+        "ano_publicacao": 1880,
+        "genero": "Romance filosófico",
+        "editora": "Editora 34"
+    },
+    {
+        "id": 10,
+        "autor_id": 6,
+        "isbn": 9786559810024,
+        "titulo": "É Assim que Acaba",
+        "ano_publicacao": 2016,
+        "genero": "Romance contemporâneo",
+        "editora": "Galera Record"
+    },
+    {
+        "id": 11,
+        "autor_id": 6,
+        "isbn": 9786559812851,
+        "titulo": "Verity",
+        "ano_publicacao": 2018,
+        "genero": "Suspense",
+        "editora": "Galera Record"
+    },
+    {
+        "id": 12,
+        "autor_id": 7,
+        "isbn": 9786555653267,
+        "titulo": "Os Sete Maridos de Evelyn Hugo",
+        "ano_publicacao": 2017,
+        "genero": "Ficção histórica",
+        "editora": "Paralela"
+    },
+    {
+        "id": 13,
+        "autor_id": 7,
+        "isbn": 9786555351965,
+        "titulo": "Daisy Jones & The Six",
+        "ano_publicacao": 2019,
+        "genero": "Drama",
+        "editora": "Paralela"
+    },
+    {
+        "id": 14,
+        "autor_id": 8,
+        "isbn": 9788535932438,
+        "titulo": "Pessoas Normais",
+        "ano_publicacao": 2018,
+        "genero": "Ficção contemporânea",
+        "editora": "Companhia das Letras"
+    },
+    {
+        "id": 15,
+        "autor_id": 8,
+        "isbn": 9788535935125,
+        "titulo": "Conversas Entre Amigos",
+        "ano_publicacao": 2017,
+        "genero": "Romance",
+        "editora": "Companhia das Letras"
+    },
+    {
+        "id": 16,
+        "autor_id": 9,
+        "isbn": 9786555652642,
+        "titulo": "A Hipótese do Amor",
+        "ano_publicacao": 2021,
+        "genero": "Romance",
+        "editora": "Arqueiro"
+    },
+    {
+        "id": 17,
+        "autor_id": 10,
+        "isbn": 9786555114973,
+        "titulo": "A Vida Invisível de Addie LaRue",
+        "ano_publicacao": 2020,
+        "genero": "Fantasia",
+        "editora": "Galera Record"
+    },
+    {
+        "id": 18,
+        "autor_id": 10,
+        "isbn": 9786555118964,
+        "titulo": "Vicious",
+        "ano_publicacao": 2013,
+        "genero": "Fantasia urbana",
+        "editora": "Galera Record"
+    },
+    {
+        "id": 19,
+        "autor_id": 11,
+        "isbn": 9788555340647,
+        "titulo": "Corte de Espinhos e Rosas",
+        "ano_publicacao": 2015,
+        "genero": "Fantasia",
+        "editora": "Galera Record"
+    },
+    {
+        "id": 20,
+        "autor_id": 11,
+        "isbn": 9788555340760,
+        "titulo": "Trono de Vidro",
+        "ano_publicacao": 2012,
+        "genero": "Fantasia",
+        "editora": "Galera Record"
+    },
+    {
+        "id": 21,
+        "autor_id": 12,
+        "isbn": 9788501087093,
+        "titulo": "Mentirosos",
+        "ano_publicacao": 2014,
+        "genero": "Suspense",
+        "editora": "Seguinte"
+    },
+    {
+        "id": 22,
+        "autor_id": 13,
+        "isbn": 9788551005410,
+        "titulo": "Circe",
+        "ano_publicacao": 2018,
+        "genero": "Fantasia mitológica",
+        "editora": "Planeta"
+    },
+    {
+        "id": 23,
+        "autor_id": 13,
+        "isbn": 9788551005458,
+        "titulo": "A Canção de Aquiles",
+        "ano_publicacao": 2011,
+        "genero": "Mitologia",
+        "editora": "Planeta"
+    },
+    {
+        "id": 24,
+        "autor_id": 14,
+        "isbn": 9788520935353,
+        "titulo": "Os Miseráveis",
+        "ano_publicacao": 1862,
+        "genero": "Romance histórico",
+        "editora": "Editora 34"
+    },
+    {
+        "id": 25,
+        "autor_id": 15,
+        "isbn": 9788520934301,
+        "titulo": "O Retrato de Dorian Gray",
+        "ano_publicacao": 1890,
+        "genero": "Romance",
+        "editora": "Editora 34"
+    },
+    {
+        "id": 26,
+        "autor_id": 16,
+        "isbn": 9788535925850,
+        "titulo": "A Metamorfose",
+        "ano_publicacao": 1915,
+        "genero": "Ficção",
+        "editora": "Companhia das Letras"
+    },
+    {
+        "id": 27,
+        "autor_id": 17,
+        "isbn": 9788535914908,
+        "titulo": "O Velho e o Mar",
+        "ano_publicacao": 1952,
+        "genero": "Ficção",
+        "editora": "Companhia das Letras"
+    },
+    {
+        "id": 28,
+        "autor_id": 17,
+        "isbn": 9788577991881,
+        "titulo": "Por Quem os Sinos Dobram",
+        "ano_publicacao": 1940,
+        "genero": "Ficção histórica",
+        "editora": "Bertrand Brasil"
+    },
+    {
+        "id": 29,
+        "autor_id": 18,
+        "isbn": 9788503013106,
+        "titulo": "Guerra e Paz",
+        "ano_publicacao": 1869,
+        "genero": "Romance histórico",
+        "editora": "Ediouro"
+    },
+    {
+        "id": 30,
+        "autor_id": 18,
+        "isbn": 9788535909553,
+        "titulo": "Anna Kariênina",
+        "ano_publicacao": 1877,
+        "genero": "Romance",
+        "editora": "Companhia das Letras"
+    },
+    {
+        "id": 31,
+        "autor_id": 19,
+        "isbn": 9786555652594,
+        "titulo": "Babel",
+        "ano_publicacao": 2022,
+        "genero": "Fantasia",
+        "editora": "Suma"
+    },
+    {
+        "id": 32,
+        "autor_id": 19,
+        "isbn": 9786555653003,
+        "titulo": "A Guerra da Papoula",
+        "ano_publicacao": 2018,
+        "genero": "Fantasia",
+        "editora": "Suma"
+    },
+    {
+        "id": 33,
+        "autor_id": 20,
+        "isbn": 9788579800748,
+        "titulo": "Estilhaça-me",
+        "ano_publicacao": 2011,
+        "genero": "Fantasia distópica",
+        "editora": "Universo dos Livros"
+    },
+    {
+        "id": 34,
+        "autor_id": 20,
+        "isbn": 9786555652327,
+        "titulo": "Imaginary Borders",
+        "ano_publicacao": 2020,
+        "genero": "Poesia",
+        "editora": "Penguin Books"
+    },
+    {
+        "id": 35,
+        "autor_id": 7,
+        "isbn": 9786555354016,
+        "titulo": "Malibu Renasce",
+        "ano_publicacao": 2021,
+        "genero": "Ficção contemporânea",
+        "editora": "Paralela"
+    },
+    {
+        "id": 36,
+        "autor_id": 6,
+        "isbn": 9786559810051,
+        "titulo": "As Mil Partes do Meu Coração",
+        "ano_publicacao": 2018,
+        "genero": "Romance",
+        "editora": "Galera Record"
+    },
+    {
+        "id": 37,
+        "autor_id": 8,
+        "isbn": 9788535935484,
+        "titulo": "Onde Você Estava à Noite",
+        "ano_publicacao": 2021,
+        "genero": "Romance",
+        "editora": "Companhia das Letras"
+    },
+    {
+        "id": 38,
+        "autor_id": 13,
+        "isbn": 9788535930151,
+        "titulo": "Galatea",
+        "ano_publicacao": 2023,
+        "genero": "Mitologia",
+        "editora": "Planeta"
+    },
+    {
+        "id": 39,
+        "autor_id": 15,
+        "isbn": 9788535912362,
+        "titulo": "De Profundis",
+        "ano_publicacao": 1905,
+        "genero": "Biografia/Cartas",
+        "editora": "Companhia das Letras"
+    },
+    {
+        "id": 40,
+        "autor_id": 2,
+        "isbn": 9788535914830,
+        "titulo": "Emma",
+        "ano_publicacao": 1815,
+        "genero": "Romance",
+        "editora": "Penguin Companhia"
+    },
+    {
+        "id": 41,
+        "autor_id": 4,
+        "isbn": 9788578278792,
+        "titulo": "Poemas Completos",
+        "ano_publicacao": 1850,
+        "genero": "Poesia",
+        "editora": "L&PM"
+    },
+    {
+        "id": 42,
+        "autor_id": 17,
+        "isbn": 9788535914373,
+        "titulo": "Adeus às Armas",
+        "ano_publicacao": 1929,
+        "genero": "Romance de guerra",
+        "editora": "Companhia das Letras"
+    },
+    {
+        "id": 43,
+        "autor_id": 3,
+        "isbn": 9788535914342,
+        "titulo": "Na Pior em Paris e Londres",
+        "ano_publicacao": 1933,
+        "genero": "Memórias",
+        "editora": "Companhia das Letras"
+    },
+    {
+        "id": 44,
+        "autor_id": 11,
+        "isbn": 9788555340982,
+        "titulo": "Casa de Céu e Sopro",
+        "ano_publicacao": 2022,
+        "genero": "Fantasia",
+        "editora": "Galera Record"
+    },
+    {
+        "id": 45,
+        "autor_id": 9,
+        "isbn": 9786555652655,
+        "titulo": "Love on the Brain",
+        "ano_publicacao": 2022,
+        "genero": "Romance",
+        "editora": "Arqueiro"
+    },
+    {
+        "id": 46,
+        "autor_id": 12,
+        "isbn": 9788501105834,
+        "titulo": "O Projeto Desfazer",
+        "ano_publicacao": 2021,
+        "genero": "Suspense psicológico",
+        "editora": "Seguinte"
+    },
+    {
+        "id": 47,
+        "autor_id": 14,
+        "isbn": 9788535912348,
+        "titulo": "Notre-Dame de Paris",
+        "ano_publicacao": 1831,
+        "genero": "Romance histórico",
+        "editora": "Companhia das Letras"
+    },
+    {
+        "id": 48,
+        "autor_id": 16,
+        "isbn": 9788535926321,
+        "titulo": "Carta ao Pai",
+        "ano_publicacao": 1919,
+        "genero": "Biografia",
+        "editora": "Companhia das Letras"
+    },
+    {
+        "id": 49,
+        "autor_id": 19,
+        "isbn": 9786555652662,
+        "titulo": "A República do Dragão",
+        "ano_publicacao": 2019,
+        "genero": "Fantasia",
+        "editora": "Suma"
+    },
+    {
+        "id": 50,
+        "autor_id": 20,
+        "isbn": 9786555652679,
+        "titulo": "Destrua-me",
+        "ano_publicacao": 2012,
+        "genero": "Fantasia distópica",
+        "editora": "Universo dos Livros"
+    }
+]

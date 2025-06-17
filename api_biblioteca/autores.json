@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "nome": "Machado de Assis",
+        "nacionalidade": "Brasileiro",
+        "nascimento": "21-06-1839"
+    },
+    {
+        "id": 2,
+        "nome": "Jane Austen",
+        "nacionalidade": "Britânica",
+        "nascimento": "16-12-1775"
+    },
+    {
+        "id": 3,
+        "nome": "George Orwell",
+        "nacionalidade": "Britânico",
+        "nascimento": "25-06-1903"
+    },
+    {
+        "id": 4,
+        "nome": "Paula",
+        "nacionalidade": "Brasileira",
+        "nascimento": "03-01-1980"
+    },
+    {
+        "id": 5,
+        "nome": "Fiódor Dostoiévski",
+        "nacionalidade": "Russo",
+        "nascimento": "11-11-1821"
+    },
+    {
+        "id": 6,
+        "nome": "Colleen Hoover",
+        "nacionalidade": "Americana",
+        "nascimento": "11-12-1979"
+    },
+    {
+        "id": 7,
+        "nome": "Taylor Jenkins Reid",
+        "nacionalidade": "Americana",
+        "nascimento": "20-12-1983"
+    },
+    {
+        "id": 8,
+        "nome": "Sally Rooney",
+        "nacionalidade": "Irlandesa",
+        "nascimento": "20-02-1991"
+    },
+    {
+        "id": 9,
+        "nome": "Ali Hazelwood",
+        "nacionalidade": "Italiana",
+        "nascimento": "05-03-1989"
+    },
+    {
+        "id": 10,
+        "nome": "V. E. Schwab",
+        "nacionalidade": "Americana",
+        "nascimento": "07-07-1987"
+    },
+    {
+        "id": 11,
+        "nome": "Sarah J. Maas",
+        "nacionalidade": "Americana",
+        "nascimento": "05-03-1986"
+    },
+    {
+        "id": 12,
+        "nome": "E. Lockhart",
+        "nacionalidade": "Americana",
+        "nascimento": "13-09-1967"
+    },
+    {
+        "id": 13,
+        "nome": "Madeline Miller",
+        "nacionalidade": "Americana",
+        "nascimento": "24-07-1978"
+    },
+    {
+        "id": 14,
+        "nome": "Victor Hugo",
+        "nacionalidade": "Francês",
+        "nascimento": "26-02-1802"
+    },
+    {
+        "id": 15,
+        "nome": "Oscar Wilde",
+        "nacionalidade": "Irlandês",
+        "nascimento": "16-10-1854"
+    },
+    {
+        "id": 16,
+        "nome": "Franz Kafka",
+        "nacionalidade": "Alemão",
+        "nascimento": "03-07-1883"
+    },
+    {
+        "id": 17,
+        "nome": "Ernest Hemingway",
+        "nacionalidade": "Americano",
+        "nascimento": "21-07-1899"
+    },
+    {
+        "id": 18,
+        "nome": "Léo Tolstói",
+        "nacionalidade": "Russo",
+        "nascimento": "09-09-1828"
+    },
+    {
+        "id": 19,
+        "nome": "R. F. Kuang",
+        "nacionalidade": "Chinesa-Americana",
+        "nascimento": "29-05-1996"
+    },
+    {
+        "id": 20,
+        "nome": "Tahereh Mafi",
+        "nacionalidade": "Americana",
+        "nascimento": "09-11-1988"
+    }
+]
